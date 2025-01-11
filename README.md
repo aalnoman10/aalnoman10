@@ -4,7 +4,7 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant and funct
 
 🌐 **Portfolio:** [al-noman.web.app](https://al-noman.web.app/)
 📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/aalnomanm10/)
-🐦 **Facebook:** [@AbdullahAlNoman](https://web.facebook.com/alnoman.mern/)
+🐦 **Facebook:** [@AbdullahAlNoman](https://web.facebook.com/alnoman.d)
 
 ## 💼 Expertise
 
